@@ -3,7 +3,7 @@ package com.magic.magicoj.judge.strategy;
 import cn.hutool.json.JSONUtil;
 import com.magic.magicoj.model.dto.question.JudgeCase;
 import com.magic.magicoj.model.dto.question.JudgeConfig;
-import com.magic.magicoj.model.dto.questionsubmit.JudgeInfo;
+import com.magic.magicoj.judge.codesandbox.model.JudgeInfo;
 import com.magic.magicoj.model.entity.Question;
 import com.magic.magicoj.model.enums.JudgeInfoMessageEnum;
 

@@ -3,7 +3,7 @@ package com.magic.magicoj.judge.codesandbox.impl;
 import com.magic.magicoj.judge.codesandbox.CodeSandbox;
 import com.magic.magicoj.judge.codesandbox.model.ExecuteCodeRequest;
 import com.magic.magicoj.judge.codesandbox.model.ExecuteCodeResponse;
-import com.magic.magicoj.model.dto.questionsubmit.JudgeInfo;
+import com.magic.magicoj.judge.codesandbox.model.JudgeInfo;
 import com.magic.magicoj.model.enums.JudgeInfoMessageEnum;
 import com.magic.magicoj.model.enums.QuestionSubmitStatusEnum;
 import lombok.extern.slf4j.Slf4j;

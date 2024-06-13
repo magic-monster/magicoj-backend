@@ -10,7 +10,7 @@ import com.magic.magicoj.judge.codesandbox.model.ExecuteCodeRequest;
 import com.magic.magicoj.judge.codesandbox.model.ExecuteCodeResponse;
 import com.magic.magicoj.judge.strategy.JudgeContext;
 import com.magic.magicoj.model.dto.question.JudgeCase;
-import com.magic.magicoj.model.dto.questionsubmit.JudgeInfo;
+import com.magic.magicoj.judge.codesandbox.model.JudgeInfo;
 import com.magic.magicoj.model.entity.Question;
 import com.magic.magicoj.model.entity.QuestionSubmit;
 import com.magic.magicoj.model.enums.QuestionSubmitStatusEnum;

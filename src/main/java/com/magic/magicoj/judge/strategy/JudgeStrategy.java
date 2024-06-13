@@ -1,6 +1,6 @@
 package com.magic.magicoj.judge.strategy;
 
-import com.magic.magicoj.model.dto.questionsubmit.JudgeInfo;
+import com.magic.magicoj.judge.codesandbox.model.JudgeInfo;
 
 /**
  * 判题策略

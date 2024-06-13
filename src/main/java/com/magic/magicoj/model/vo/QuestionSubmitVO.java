@@ -1,7 +1,7 @@
 package com.magic.magicoj.model.vo;
 
 import cn.hutool.json.JSONUtil;
-import com.magic.magicoj.model.dto.questionsubmit.JudgeInfo;
+import com.magic.magicoj.judge.codesandbox.model.JudgeInfo;
 import com.magic.magicoj.model.entity.QuestionSubmit;
 import lombok.Data;
 import org.springframework.beans.BeanUtils;

@@ -4,7 +4,7 @@ import com.magic.magicoj.judge.strategy.DefaultJudgeStrategy;
 import com.magic.magicoj.judge.strategy.JavaLanguageJudgeStrategy;
 import com.magic.magicoj.judge.strategy.JudgeContext;
 import com.magic.magicoj.judge.strategy.JudgeStrategy;
-import com.magic.magicoj.model.dto.questionsubmit.JudgeInfo;
+import com.magic.magicoj.judge.codesandbox.model.JudgeInfo;
 import com.magic.magicoj.model.entity.QuestionSubmit;
 import org.springframework.stereotype.Service;
 

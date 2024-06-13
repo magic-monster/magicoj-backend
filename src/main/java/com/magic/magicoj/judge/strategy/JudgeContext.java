@@ -1,7 +1,7 @@
 package com.magic.magicoj.judge.strategy;
 
 import com.magic.magicoj.model.dto.question.JudgeCase;
-import com.magic.magicoj.model.dto.questionsubmit.JudgeInfo;
+import com.magic.magicoj.judge.codesandbox.model.JudgeInfo;
 import com.magic.magicoj.model.entity.Question;
 import com.magic.magicoj.model.entity.QuestionSubmit;
 import lombok.Data;
